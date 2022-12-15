@@ -50,12 +50,16 @@ Bu kullancı adı ve şifreyi kullanarak giriş yapabiliriz. Yeni kullanıcı ol
 
 <hr/>
 
-![Etickets App](images/sql.png)
-![Etickets App](images/login.png)
-![Etickets App](images/admin1.png)
-![Etickets App](images/admin2.png)
-![Etickets App](images/admin3.png)
-![Etickets App](images/admin4.png)
-![Etickets App](images/admin5.png)
-![Etickets App](images/admin6.png)
-![Etickets App](images/User1.png)
+![Blog App](images/sql.png)
+![Blog App](images/register.png)
+![Blog App](images/login.png)
+![Blog App](images/AdminPanel1.png)
+![Blog App](images/AdminPanel2.png)
+![Blog App](images/AdminPanel3.png)
+![Blog App](images/AdminPanel4.png)
+![Blog App](images/AdminPanel5.png)
+![Blog App](images/YazarPanel1.png)
+![Blog App](images/YazarPanel2.png)
+![Blog App](images/YazarPanel3.png)
+![Blog App](images/YazarPanel4.png)
+
